@@ -6,7 +6,7 @@
 4. Quitarme la ropa sucia
 5. Abrir las llaves de la regadera
 6. Usar el jabon y shampoo
-7. Quitarme los reciduos con el agua
+7. Quitarme los residuos con el agua
 8. Cerrar las llaves del agua
 9. Secarme con la toalla
 10. Ponerme la ropa limpia
@@ -17,10 +17,20 @@
 
 ## ALGOTIRMO PARA DETERMINAR LA EDAD
 1. Inicio
-2. 
-
-
+2. Declarar ( año actual, año de nacimiento): números reales.
+3. Ingresar valores de los años (año actual, año de nacimiento).
+4. Edad = (año actual - año de nacimiento)
+5. Mostrar (edad).
+6. Fin.
 
 
 
 # Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
+
+## Algoritmo para determinar el incremento del producto
+1. Inicio
+2. Declara ( precio anterior, precio actual): números reales.
+3. Ingresar valores de los precios ( precio anterior, precio actual).
+4. Incremento = (Precio Actual - Precio anterior).
+5. Mostrar (precio)
+6. Fin.
