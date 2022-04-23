@@ -29,8 +29,8 @@
 
 ## Algoritmo para determinar el incremento del producto
 1. Inicio
-2. Declara ( precio anterior, precio actual): números reales.
-3. Ingresar valores de los precios ( precio anterior, precio actual, Incremento).
+2. Declara ( precio anterior, precio actual, Incremento): números reales.
+3. Ingresar valores de los precios ( precio anterior, precio actual).
 4. Incremento = (precio Actual - precio anterior).
 5. Mostrar (Incremento)
 6. Fin.
