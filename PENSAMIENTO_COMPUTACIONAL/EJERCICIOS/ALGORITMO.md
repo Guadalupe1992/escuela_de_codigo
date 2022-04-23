@@ -1,7 +1,7 @@
 # REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 ## ALGOTIRMO PARA BAÑARME
 1. Inicio
-2. Buscar ropa limpia, elegir el shampoo y el jabon
+2. Buscar ropa limpia, elegir el shampoo y el jabon, toalla, agua, llaves de regadera, ropa sucia
 3. Elegir la toalla para secarme 
 4. Quitarme la ropa sucia
 5. Abrir las llaves de la regadera
@@ -17,7 +17,7 @@
 
 ## ALGOTIRMO PARA DETERMINAR LA EDAD
 1. Inicio
-2. Declarar ( año actual, año de nacimiento): números reales.
+2. Declarar ( año actual,año de nacimiento, edad): números reales.
 3. Ingresar valores de los años (año actual, año de nacimiento).
 4. Edad = (año actual - año de nacimiento)
 5. Mostrar (edad).
@@ -30,7 +30,7 @@
 ## Algoritmo para determinar el incremento del producto
 1. Inicio
 2. Declara ( precio anterior, precio actual): números reales.
-3. Ingresar valores de los precios ( precio anterior, precio actual).
-4. Incremento = (Precio Actual - Precio anterior).
-5. Mostrar (precio)
+3. Ingresar valores de los precios ( precio anterior, precio actual, Incremento).
+4. Incremento = (precio Actual - precio anterior).
+5. Mostrar (Incremento)
 6. Fin.
